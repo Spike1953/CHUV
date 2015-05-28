@@ -1,0 +1,11 @@
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\bin\Debug\Projet CHUV.exe.config
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\bin\Debug\Projet CHUV.exe
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\bin\Debug\Projet CHUV.pdb
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\bin\Debug\System.Data.SQLite.dll
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\bin\Debug\System.Data.SQLite.pdb
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet_CHUV.Programme.resources
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet_CHUV.Properties.Resources.resources
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet CHUV.csproj.GenerateResource.Cache
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet CHUV.exe
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet CHUV.pdb
+d:\spike\documents\visual studio 2013\Projects\Projet CHUV\Projet CHUV\obj\Debug\Projet CHUV.csprojResolveAssemblyReference.cache
